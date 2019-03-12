@@ -1,0 +1,12 @@
+h1{ text-align:center;
+    border: 2px solid green;
+  }
+  
+  canvas{ width:350px;
+    height:440px;
+    border:2px solid red;
+  
+  }
+  html{
+    border:10px solid lightblue;}
+  
